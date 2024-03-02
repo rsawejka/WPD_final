@@ -26,7 +26,6 @@ ReviewMeta::getInstance();
 ReviewPostType::getInstance();
 
 
-register_activation_hook(__FILE__, 'booksPlugin/activate_book_plugin');
 function activate_book_plugin(){
 
     //make sure the post type is registered before cache is cleared.
