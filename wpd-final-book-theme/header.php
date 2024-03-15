@@ -39,8 +39,6 @@
 			?>
 
 		</nav><!-- #site-navigation -->
-        <div class="block">
 
-        </div>
 	</header><!-- #masthead -->
 <div class="Wrapper">
